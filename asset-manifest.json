@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suberase-homepage/static/css/main.53b02b1a.css",
+    "main.js": "/suberase-homepage/static/js/main.a35869c5.js",
+    "static/js/453.c38ab08a.chunk.js": "/suberase-homepage/static/js/453.c38ab08a.chunk.js",
+    "index.html": "/suberase-homepage/index.html",
+    "main.53b02b1a.css.map": "/suberase-homepage/static/css/main.53b02b1a.css.map",
+    "main.a35869c5.js.map": "/suberase-homepage/static/js/main.a35869c5.js.map",
+    "453.c38ab08a.chunk.js.map": "/suberase-homepage/static/js/453.c38ab08a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b02b1a.css",
+    "static/js/main.a35869c5.js"
+  ]
+}
